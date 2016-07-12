@@ -1,1 +1,1 @@
-# erictrose.github.io
+[ericrose.me](http://ericrose.me/)
